@@ -1,0 +1,1 @@
+web: gunicorn djackets_backend.wsgi --log-file -
